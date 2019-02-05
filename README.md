@@ -1,4 +1,4 @@
-# startup_namer
+# Startup Namer
 
 Flutter app that contains 
 - Implementation for a stateful widget, adding interactivity.
