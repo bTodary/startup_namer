@@ -2,8 +2,8 @@
 
 Flutter app that contains 
 - Implementation for a stateful widget, adding interactivity.
-- a route and logic for moving between the home route and the new route.
-- changing the look of the app's UI using themes.
+- A route and logic for moving between the home route and the new route.
+- Changing the look of the app's UI using themes.
 
 ## Getting Started
 
